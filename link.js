@@ -1,0 +1,1 @@
+const offerLink = "vnd.youtube://https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVVOWkFmWFF0WWIxd0NoX3R6V2h6UVBPYjNDZ3xBQ3Jtc0tualFLMVkxUUo2V2VxVTVOek9pRWMxcXVBSjJDb1FmV2hWVldZaEt4UVNrRGV3LUlPN2txN2ZYMm5JUXVSR1NTdFlzUnJQaDVhVF9KeVZQUDNGalMyZnF3WlZSSTZzTDE1S1NLb2Y3Y0tJQ3pqLWg0SQ&q=https://test.link.com&html_redirect=1";
